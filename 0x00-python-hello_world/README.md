@@ -1,1 +1,1 @@
-readme
+this folder of this project is mandatory`
